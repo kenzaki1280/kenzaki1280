@@ -41,8 +41,8 @@
 ### ⭐ **Project Lover**
 Hệ thống User – Provider – Admin với RESTful API + ReactJS frontend.
 - **Vai trò:** Backend + Frontend
-- **Tính năng:** Xác thực JWT, quản lý người dùng, thống kê, CRUD dịch vụ
-- **Tech:** Java, Spring Boot, ReactJS, MySQL, GitHub
+- **Tính năng:** Xây dựng RESTful API và giao diện front-end, triển khai các chức năng quản lý người dùng và thống kê cho hệ thống User – Provider – Admin.
+- **Tech:** Java, Spring Boot (REST API, JWT), ReactJS, HTML/CSS/JS, MySQL, Git/GitHub, Postman
 - 👉 **Source:** [Backend](https://github.com/Dungndph20697/lover_backend) • [Frontend](https://github.com/Dungndph20697/lover_fontend_react)
 
 
@@ -50,8 +50,8 @@ Hệ thống User – Provider – Admin với RESTful API + ReactJS frontend.
 ### ⭐ **Student Management**
 Quản lý sinh viên + phân quyền Spring Security + giao diện Thymeleaf.
 - **Vai trò:** Fullstack
-- **Tính năng:** CRUD, phân quyền, đa ngôn ngữ (i18n)
-- **Tech:** Java, Spring Boot, Thymeleaf, Bootstrap, MySQL
+- **Tính năng:** Xây dựng CRUD người dùng, phân quyền Spring Security, thiết kế giao diện Thymeleaf/Bootstrap và triển khai đa ngôn ngữ (i18n).
+- **Tech:** Java, Spring Boot (REST API, JWT, I18N), ThymeLeaf, Bootstrap, MySQL, Git/GitHub, Postman.
 - 👉 **Source:** [Xem code](https://github.com/kenzaki1280/student-management)
 
 
