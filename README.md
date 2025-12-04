@@ -11,7 +11,7 @@
 - 🎓 Tốt nghiệp chuyên ngành **CNTT – Đại học Thăng Long**
 - 💼 Vị trí: Fresher Fullstack Developer (Spring Boot & React)
 - 🔥 Tư duy logic tốt, chăm chỉ, ham học hỏi, ưu tiên code sạch & rõ ràng
-- 🎯 Mục tiêu 6–12 tháng: Nâng cao backend + triển khai hệ thống thực tế
+- 🎯 Mục tiêu 6–12 tháng: nâng cao tư duy phân tích, viết clean code và có thể tự triển khai một chức năng hoàn chỉnh từ backend đến frontend
 
 
 ## 🧰 Kỹ năng chính
