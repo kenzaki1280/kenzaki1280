@@ -14,10 +14,28 @@
 - 🎯 Mục tiêu 6–12 tháng: nâng cao tư duy phân tích, viết clean code và có thể tự triển khai một chức năng hoàn chỉnh từ backend đến frontend
 
 
+
 ## 🧰 Kỹ năng chính
-- **Backend:** Java, Spring Boot, Spring MVC, Spring Security (JWT), Hibernate, REST API
-- **Frontend:** ReactJS, HTML/CSS/JS, jQuery, Bootstrap, Thymeleaf
-- **Database & Tools:** MySQL, Git/GitHub, Postman
+### 🔧 Backend  
+- ☕ **Java**  
+- 🌱 **Spring Boot**, **Spring MVC**  
+- 🔐 **Spring Security (JWT)**  
+- 🗄️ **Hibernate / JPA**  
+- 🌐 **RESTful API**
+
+### 🎨 Frontend  
+- ⚛️ **ReactJS**  
+- 🧩 **HTML / CSS / JavaScript**  
+- 🧵 **jQuery / AJAX**  
+- 🎀 **Bootstrap**  
+- 🍃 **Thymeleaf**
+
+### 🛢️ Database & Tools  
+- 🐬 **MySQL**  
+- 🧰 **Git / GitHub**  
+- 🧪 **Postman**
+
+
 
 ## 🚀 Dự án tiêu biểu
 ### ⭐ **Project Lover**
@@ -28,12 +46,14 @@ Hệ thống User – Provider – Admin với RESTful API + ReactJS frontend.
 - 👉 **Source:** [Backend](https://github.com/Dungndph20697/lover_backend) • [Frontend](https://github.com/Dungndph20697/lover_fontend_react)
 
 
+
 ### ⭐ **Student Management**
 Quản lý sinh viên + phân quyền Spring Security + giao diện Thymeleaf.
 - **Vai trò:** Fullstack
 - **Tính năng:** CRUD, phân quyền, đa ngôn ngữ (i18n)
 - **Tech:** Java, Spring Boot, Thymeleaf, Bootstrap, MySQL
 - 👉 **Source:** [Xem code](https://github.com/kenzaki1280/student-management)
+
 
 
 ## 📫 Liên hệ
