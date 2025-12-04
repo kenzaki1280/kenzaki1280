@@ -14,6 +14,11 @@
 - 🎯 Mục tiêu 6–12 tháng: Nâng cao backend + triển khai hệ thống thực tế
 
 
+## 🧰 Kỹ năng chính
+- **Backend:** Java, Spring Boot, Spring MVC, Spring Security (JWT), Hibernate, REST API
+- **Frontend:** ReactJS, HTML/CSS/JS, jQuery, Bootstrap, Thymeleaf
+- **Database & Tools:** MySQL, Git/GitHub, Postman
+
 ## 🚀 Dự án tiêu biểu
 ### ⭐ **Project Lover**
 Hệ thống User – Provider – Admin với RESTful API + ReactJS frontend.
@@ -29,12 +34,6 @@ Quản lý sinh viên + phân quyền Spring Security + giao diện Thymeleaf.
 - **Tính năng:** CRUD, phân quyền, đa ngôn ngữ (i18n)
 - **Tech:** Java, Spring Boot, Thymeleaf, Bootstrap, MySQL
 - 👉 **Source:** [Xem code](https://github.com/kenzaki1280/student-management)
-
-
-## 🧰 Kỹ năng chính
-- **Backend:** Java, Spring Boot, Spring MVC, Spring Security (JWT), Hibernate, REST API
-- **Frontend:** ReactJS, HTML/CSS/JS, jQuery, Bootstrap, Thymeleaf
-- **Database & Tools:** MySQL, Git/GitHub, Postman
 
 
 ## 📫 Liên hệ
